@@ -1,0 +1,8 @@
+1. git init
+2. git remote set-url origin https://github.com/dhivya17/TestingGit
+3. git add . [to add all files to staging area]
+4. git add [fileName]
+5. git commit -m "proper message" 
+6. git push origin [branchName]
+7. git checkout -b [branchName]
+8. git stash
